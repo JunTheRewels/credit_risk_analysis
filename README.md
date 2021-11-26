@@ -1,4 +1,4 @@
-# hw_m12_credit_risk_analysis
+# credit_risk_analysis
 
 ## Overview of the Analysis
 
